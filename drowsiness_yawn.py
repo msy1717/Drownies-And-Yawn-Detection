@@ -1,21 +1,15 @@
 import os
 
 
-try:
-	
-	os.system("pip3 install opencv")
-        os.system("pip3 install dlib")
-        os.system("pip3 install imutils")
-        os.system("pip3 install scipy")
-        os.system("pip3 install numpy")
-        os.system("pip3 install argparse")
 
-except Exception as e:
-	print(e)
+	
+	
+
+	
 	
 
 
-'''
+
 os.system("pip3 install opencv")
 os.system("pip3 install dlib")
 os.system("pip3 install imutils")
@@ -23,7 +17,7 @@ os.system("pip3 install scipy")
 os.system("pip3 install numpy")
 os.system("pip3 install argparse")
 
-'''
+
 
 from scipy.spatial import distance as dist
 from imutils.video import VideoStream
