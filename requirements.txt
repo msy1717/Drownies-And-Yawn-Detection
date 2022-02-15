@@ -1,6 +1,1 @@
-opencv
-dlib
-imutils
-scipy
-numpy
-argparse
+telethon
